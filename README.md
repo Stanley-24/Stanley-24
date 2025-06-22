@@ -1,10 +1,6 @@
-<h2 align="left">Hello World!, I'm Stanley, a Nigerian Software Engineer 👋🏼</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=You+just+found+the+coding+monkey;Where%3F;Sitting+right+here+looking+at+the+;white+big+computer+screen;writting+endless+codes;I+love+the+keyboards+sounds!)](https://git.io/typing-svg)
 
-###
 
-<p align="right">A Python Developer with a strong focus on building fast, scalable APIs using FastAPI.</p>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Stanley-24.Stanley-24&"  />
